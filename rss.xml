@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Design Phnom Penh]]></title>
+        <description><![CDATA[Design Phnom Penh]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Dec 2015 03:25:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WELCOME]]></title>
+            <description><![CDATA[<article><h1>WELCOME</h1><p>WELCOME.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7e227f2c7ba47d0c53621a4f96d59f5a143a672.jpg"></article>]]></description>
+            <link>undefinedwelcome/index.html</link>
+            <guid isPermaLink="false">c3de9bdc-4ad4-44cb-beec-b2518fce1863</guid>
+            <pubDate>Sun, 27 Dec 2015 03:25:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
